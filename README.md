@@ -1,6 +1,6 @@
 ![Chad You - Shovel Seller MD](linkedin_cover_image.png)
 
-![Chad's GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=youcc&show_icons=true&theme=radical&hide_title=false&count_private=true)
+![Chad's GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=youcc&show_icons=true&theme=radical&hide_title=false&count_private=true&include_all_commits=true)
 
 *Bridging clinical expertise with data & AI to build better healthcare*
 
