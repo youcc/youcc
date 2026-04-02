@@ -1,5 +1,7 @@
 ![Chad You - Shovel Seller MD](linkedin_cover_image.png)
+*Bridging clinical expertise with data & AI to build better healthcare*
 
+---
 # Healthcare Analytics Engineer Handbook
 
 [![Stars](https://img.shields.io/github/stars/youcc/healthcare_analytics_engineer_handbook?style=social)](https://github.com/youcc/healthcare_analytics_engineer_handbook/stargazers)
