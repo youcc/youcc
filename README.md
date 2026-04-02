@@ -106,5 +106,3 @@ MIT License — feel free to use, adapt, and build upon this work.
 **"Selling shovels" for the medical AI and analytics gold rush since 2025.**
 
 Made with ❤️ for the healthcare data community.
-
-![Chad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=youcc&show_icons=true&theme=radical&hide_title=false&count_private=true&include_all_commits=true)
