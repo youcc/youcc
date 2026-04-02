@@ -1,3 +1,5 @@
+![Chad You - Shovel Seller MD](linkedin_cover_image.png)
+
 # Healthcare Analytics Engineer Handbook
 
 [![Stars](https://img.shields.io/github/stars/youcc/healthcare_analytics_engineer_handbook?style=social)](https://github.com/youcc/healthcare_analytics_engineer_handbook/stargazers)
