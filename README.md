@@ -2,9 +2,22 @@
 
 ![Chad's GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=youcc&show_icons=true&theme=radical&hide_title=false&count_private=true&include_all_commits=true)
 
-*Bridging clinical expertise with data & AI to build better healthcare*
+**Healthcare PM/DE + clinical AI builder at VUMC** | Creating open guides for healthcare analytics teams | 10+ years shipping medical AI in US hospitals
 
 ---
+
+## Featured Projects
+
+| Repo | Description | Stars |
+|------|-------------|-------|
+| [healthcare_analytics_engineer_handbook](https://github.com/youcc/healthcare_analytics_engineer_handbook) | Essential guide for healthcare analytics & clinical AI teams | ⭐ 122 |
+| [awesome-azure-dp700-resources](https://github.com/youcc/awesome-azure-dp700-resources) | Microsoft Fabric Data Engineer (DP-700) exam study resources | ⭐ 3 |
+| [awesome-azure-dp600-resources](https://github.com/youcc/awesome-azure-dp600-resources) | Microsoft Fabric Analytics Engineer (DP-600) exam study resources | ⭐ 1 |
+| [awesome_prompt_warehouse](https://github.com/youcc/awesome_prompt_warehouse) | Curated prompt library for healthcare & analytics use cases | |
+| [til](https://github.com/youcc/til) | Today I Learned — quick notes from the trenches of clinical AI | |
+
+---
+
 # Healthcare Analytics Engineer Handbook
 
 [![Stars](https://img.shields.io/github/stars/youcc/healthcare_analytics_engineer_handbook?style=social)](https://github.com/youcc/healthcare_analytics_engineer_handbook/stargazers)
@@ -87,13 +100,39 @@ This is a living, community-driven project (88+ commits and growing). Contributi
 
 Open an issue or submit a PR. Let's build better healthcare analytics together.
 
+## Upcoming Guides
+
+Planned open-source guides in this vein — drop a star on the handbook if you want to see these sooner:
+
+- **LLM Playbook for Health Systems** — practical patterns for deploying LLMs in clinical settings (prompt design, guardrails, evaluation)
+- **EHR Data Gotchas** — the common pitfalls when working with Epic/Cerner exports that no one warns you about
+- **Clinical AI Project Scoping Guide** — how to scope, staff, and ship an ML project inside a hospital
+
+---
+
+## Shovel Seller MD — Newsletter
+
+**[chadyou.substack.com](https://chadyou.substack.com/)** · Healthcare Data × AI
+
+A module-by-module playbook for healthcare AI product builders — blending technical implementation with business strategy. Written for PMs, analysts, and clinician-builders shipping real AI in health systems.
+
+Recent modules:
+- **Module 20** — How to Actually Prove Your Healthcare AI Works: A/B Testing in Population Health
+- **Module 19** — Fine-Tuning a Healthcare LLM From Zero to Production
+- **Module 18** — RAG in Healthcare: How to Build an AI That Actually Understands Clinical Guidelines
+- **Module 17** — Claims Data + LLMs: What GPT-4 Can (and Can't) Actually Do
+
+20+ modules published. New issue every week.
+
+---
+
 ## Connect With Me
 
 - **Website**: [chadyou.com](https://www.chadyou.com/)
 - **X (Twitter)**: [@youcc](https://x.com/youcc)
 - **Substack** (Shovel Seller MD — medical LLM playbooks): [chadyou.substack.com](https://chadyou.substack.com/)
-- **LinkedIn**: Search "Chad You" or check my profile
-- Other repos: Maps/visualization experiments, etc.
+- **LinkedIn**: [in/chadyou](https://linkedin.com/in/chadyou)
+- **Reddit**: [r/healthcareinformatics](https://reddit.com/r/healthcareinformatics), [r/HealthIT](https://reddit.com/r/HealthIT), [r/MachineLearning](https://reddit.com/r/MachineLearning)
 
 I'm based in Tennessee, USA, and practice Aikido when not wrangling healthcare data.
 
