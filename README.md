@@ -13,7 +13,7 @@
 | [healthcare_analytics_engineer_handbook](https://github.com/youcc/healthcare_analytics_engineer_handbook) | Essential guide for healthcare analytics & clinical AI teams | ⭐ 122 |
 | [awesome-azure-dp700-resources](https://github.com/youcc/awesome-azure-dp700-resources) | Microsoft Fabric Data Engineer (DP-700) exam study resources | ⭐ 3 |
 | [awesome-azure-dp600-resources](https://github.com/youcc/awesome-azure-dp600-resources) | Microsoft Fabric Analytics Engineer (DP-600) exam study resources | ⭐ 1 |
-| [awesome_prompt_warehouse](https://github.com/youcc/awesome_prompt_warehouse) | Curated prompt library for healthcare & analytics use cases | |
+| [awesome-azure-dp750-resources](https://github.com/youcc/awesome-azure-dp750-resources) | Microsoft Azure Databricks Data Engineer (DP-750) exam study resources | |
 | [til](https://github.com/youcc/til) | Today I Learned — quick notes from the trenches of clinical AI | |
 
 ---
